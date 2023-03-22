@@ -5,6 +5,8 @@ VisualStudioVersion = 17.4.33213.308
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VentasAB", "VentasAB\VentasAB.csproj", "{1E545DCD-65B8-450D-A9DE-449E60016DF4}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VentasABLibrary", "VentasABLibrary\VentasABLibrary.csproj", "{C3B1FE1F-DC64-4A53-8F71-333A6DE30AC9}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{1E545DCD-65B8-450D-A9DE-449E60016DF4}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{1E545DCD-65B8-450D-A9DE-449E60016DF4}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{1E545DCD-65B8-450D-A9DE-449E60016DF4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C3B1FE1F-DC64-4A53-8F71-333A6DE30AC9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C3B1FE1F-DC64-4A53-8F71-333A6DE30AC9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C3B1FE1F-DC64-4A53-8F71-333A6DE30AC9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C3B1FE1F-DC64-4A53-8F71-333A6DE30AC9}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
